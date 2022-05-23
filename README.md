@@ -1,2 +1,1 @@
-# ownprintf
 # ft_printf
